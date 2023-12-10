@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Рабочий стол/osmonov"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_cookie"
+	}
+}
